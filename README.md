@@ -1,0 +1,1 @@
+The telecom-churn.csv is preprocessed and encoded.Then 2 models xgboost and randomforest are used.The higher accuracy is achieved with randomforest model.The top reassons for churn prediction is displayed using shap
